@@ -1,0 +1,15 @@
+[submodule "login-ui"]
+	path = login-ui
+	url = https://github.com/potjerodekool/login-ui.git
+[submodule "dashboard-ui"]
+	path = dashboard-ui
+	url = https://github.com/potjerodekool/dashboard-ui.git
+[submodule "kubernetes"]
+	path = kubernetes
+	url = https://github.com/potjerodekool/kubernetes.git
+[submodule "integrator"]
+	path = integrator
+	url = https://github.com/potjerodekool/integrator.git
+[submodule "auth-server"]
+	path = auth-server
+	url = https://github.com/potjerodekool/auth-server.git
