@@ -1,1 +1,6 @@
 /.idea/
+/dashboard-ui/dashboard-ui.iml
+/integrator/parent-pom.iml
+/integrator/integrator.iml
+/kubernetes/kubernetes.iml
+/login-ui/login-ui.iml
